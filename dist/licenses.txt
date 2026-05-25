@@ -2337,8 +2337,8 @@ Apache License
 
 The following npm packages may be included in this product:
 
- - @aws-sdk/client-ecr-public@3.1052.0
- - @aws-sdk/client-ecr@3.1052.0
+ - @aws-sdk/client-ecr-public@3.1053.0
+ - @aws-sdk/client-ecr@3.1053.0
 
 These packages each contain the following license:
 
